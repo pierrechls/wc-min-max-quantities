@@ -16,8 +16,6 @@ The customer won’t be able to checkout until they meet your restrictions – e
 
 ## 🔮 How to use it
 
-#### Download and activate
-
 - **Clone** the project `git clone git@github.com:pierrechls/wc-min-max-quantities.git`
 - **Upload** the *min-max-quantities* folder to the */wp-content/plugins/* directory
 - **Activate** the plugin through the *Plugins* menu in WordPress
